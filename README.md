@@ -1,6 +1,6 @@
 # hack-camera
 
-
+git clone https://github.com/yazidvr/hack-camera.git
 
 pip3 install requests
 
